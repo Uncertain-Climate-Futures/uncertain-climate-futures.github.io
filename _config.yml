@@ -33,7 +33,5 @@ defaults:
             url: "/loads/"
           - label: "Methods & tools"
             url: "/methods/"
-          - label: "Resources"
-            url: "/resources/"
           - label: "Members"
             url: "/members/"
