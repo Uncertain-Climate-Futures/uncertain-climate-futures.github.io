@@ -12,7 +12,7 @@ plugins:
 title: "JCSS Working Group on Uncertain Climate Futures"
 description: "A scientific group website."
 url: "https://uncertain-climate-futures.github.io" # Change to your actual URL
-baseurl: "/Uncertain-Climate-Futures" # Keep this empty if your repo is [username].github.io
+baseurl: "/uncertain-climate-futures" # Keep this empty if your repo is [username].github.io
 
 defaults:
   - scope:
