@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: wide
 title: "Motivation and Case Studies"
 permalink: /cases/
 ---
