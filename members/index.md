@@ -12,7 +12,7 @@ Our group consists of a steering committee and a broader network of researchers.
 | Name | Affiliation | Links |
 | :--- | :--- | :--- |
 | **Prof. Daniel Straub** | Technical University of Munich | [Website](https://www.cee.ed.tum.de/era)
-| **Prof. Yaofan Li** | Hong Kong Metropolitan University | 
+| **Prof. Yaohan Li** | Hong Kong Metropolitan University | 
 | **Dr. Orson Tieleman** | TU Delft | 
 | **Nadieh Meinen** | University of Southern Denmark |
 | **Prof. Raphael Steenbergen** | TNO |
