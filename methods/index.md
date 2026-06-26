@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Methoew"
+title: "Methods & tools"
 permalink: /methods/
 ---
 
