@@ -20,8 +20,12 @@ Our group consists of a steering committee and a broader network of researchers.
 
 ### Members
 
-| Name | Affiliation | Links |
+| Name | Affiliation | Links | Sub-group |
 | :--- | :--- | :--- |
-| **TBA** | TBA | 
+| **Prof. Emilio Bastudas-Arteaga** | La Rochelle Université | | 1
+| **Prof. Mariano Angelo Zanini** | University of Padova | | 1
+| **Dr. Weiheng Zhang** | Lund University | | 1
+| **Prof. Fabio Biondini** | Politecnico di Milano | | 1
+| **Prof. Eloi Figueiredo** | Lusofona University | | 1
 
-*Last updated: April 2026*
+*Last updated: October 2026*
