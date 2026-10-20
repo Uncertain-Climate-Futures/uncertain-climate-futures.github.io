@@ -33,7 +33,7 @@ Our group consists of a steering committee and a broad network of researchers.
 | **Rick Pieter Kool** | DTU | | 2 |
 | **Midula Alam** | Université Gustave Eiffel | | 2 |
 | **James Whiteley** | University of Cambridge | | 2 |
-| **Miroslav SÝKORA** | Czech Technical University | | 2 |
+| **Miroslav Sykora** | Czech Technical University | | 2 |
 | **Ali Khoddam** | Aalborg University | | 2 |
 | **Chiara Nardin** | ETH Zürich | | 2 |
 | **Daniel Straub** | Technical University of Munich | | 3 |
