@@ -1,0 +1,72 @@
+- title: Steering Committee
+  members:
+    - name: "Daniel Straub"
+      affiliation: "Technical University of Munich"
+      website: https://www.cee.ed.tum.de/era
+    - name: "Yaohan Li"
+      affiliation: "Hong Kong Metropolitan University"
+    - name: "Orson Tieleman"
+      affiliation: "TU Delft"
+    - name: "Nadieh Meinen"
+      affiliation: "University of Southern Denmark"
+    - name: "Raphael Steenbergen"
+      affiliation: "TNO"
+    - name: "Marco Broccardo"
+      affiliation: "University of Trento"
+
+- title: Motivation and Case Studies
+  url: /cases/
+  members:
+    - name: "Yaohan Li"
+      affiliation: "Hong Kong Metropolitan University"
+    - name: "Emilio Bastudas-Arteaga"
+      affiliation: "La Rochelle Université"
+    - name: "Mariano Angelo Zanini"
+      affiliation: "University of Padova"
+    - name: "Weiheng Zhang"
+      affiliation: "Lund University"
+    - name: "Fabio Biondini"
+      affiliation: "Politecnico di Milano"
+    - name: "Eloi Figueiredo"
+      affiliation: "Lusofona University"
+
+- title: Climate Loads
+  url: /loads/
+  members:
+    - name: "Nadieh Meinen"
+      affiliation: "University of Southern Denmark"
+    - name: "Raphaël Steenbergen"
+      affiliation: "TNO"
+    - name: "Rick Pieter Kool"
+      affiliation: "DTU"
+    - name: "Midula Alam"
+      affiliation: "Université Gustave Eiffel"
+    - name: "James Whiteley"
+      affiliation: "University of Cambridge"
+    - name: "Miroslav Sykora"
+      affiliation: "Czech Technical University"
+    - name: "Ali Khoddam"
+      affiliation: "Aalborg University"
+    - name: "Chiara Nardin"
+      affiliation: "ETH Zürich"
+
+- title: Methods & Tools
+  url: /methods/
+  members:
+    - name: "Daniel Straub"
+      affiliation: "Technical University of Munich"
+    - name: "Marco Broccardo"
+      affiliation: "University of Trento"
+    - name: "Matteo Pozzi"
+      affiliation: "Carnegie Mellon University"
+    - name: "Alex Sixie Cao"
+      affiliation: "Nanyang Technological University"
+    - name: "Mauricio Sánchez-Silva"
+      affiliation: "Los Andes University"
+    - name: "Kaan Marvin Heimann"
+      affiliation: "Technical University of Munich"
+    - name: "Oindrila Kanjilal"
+      affiliation: "CentraleSupélec"
+    - name: "Pablo G. Morato"
+      affiliation: "Aalborg University"
+      website: https://moratodpg.github.io/
