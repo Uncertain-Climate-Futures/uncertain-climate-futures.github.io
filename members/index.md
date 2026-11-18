@@ -34,4 +34,4 @@ Our group consists of a steering committee and a broad network of researchers.
 </section>
 {% endfor %}
 
-*Last updated: October 2026*
+<small><em>Last updated: November 2026</em></small>
