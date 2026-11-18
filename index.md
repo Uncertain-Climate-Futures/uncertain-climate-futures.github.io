@@ -13,4 +13,5 @@ The Working Group on Uncertain Climate Futures prepares the scientific backgroun
 The working group operates under the auspieces of the Joint Committee on Structural Safety (JCSS).
 
 ## Latest News
+- **November 2026:** We invite contributions to our mini-symposium, [“Climate uncertainty in engineering design, assessment, and decision-making”](https://www.icasp15.com/pages/program/accepted-mini-symposia), at the 15th International Conference on Applications of Statistics and Probability in Civil Engineering (ICASP15) in Melbourne. Abstracts are due **26 February 2027**. [Submit via the ICASP15 portal](https://www.icasp15.com/pages/program/call-for-abstracts).
 * **April 2026:** Kick-off at the JCSS meeting at Aalborg University.
