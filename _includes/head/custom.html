@@ -1,3 +1,6 @@
+{% if page.classes contains "home-page" %}
+<link rel="stylesheet" href="{{ '/assets/css/home.css' | relative_url }}">
+{% endif %}
 {% if page.classes contains "members-directory" %}
 <link rel="stylesheet" href="{{ '/assets/css/members.css' | relative_url }}">
 {% endif %}
