@@ -5,14 +5,19 @@
       website: https://www.cee.ed.tum.de/era
     - name: "Yaohan Li"
       affiliation: "Hong Kong Metropolitan University"
+      website: https://scholars.hkmu.edu.hk/en/persons/yaohan-li/
     - name: "Orson Tieleman"
       affiliation: "TU Delft"
+      website: https://www.tudelft.nl/staff/o.c.tieleman/
     - name: "Nadieh Meinen"
       affiliation: "University of Southern Denmark"
+      website: https://www.linkedin.com/in/nadiehmeinen/
     - name: "Raphael Steenbergen"
       affiliation: "TNO"
+      website: https://www.tno.nl/en/about-tno/our-people/raphael-steenbergen/
     - name: "Marco Broccardo"
       affiliation: "University of Trento"
+      website: https://broccardo.dicam.unitn.it/
 
 - title: Motivation and Case Studies
   url: /cases/
@@ -55,12 +60,14 @@
   members:
     - name: "Daniel Straub"
       affiliation: "Technical University of Munich"
+      website: https://www.cee.ed.tum.de/era
     - name: "Marco Broccardo"
       affiliation: "University of Trento"
     - name: "Matteo Pozzi"
       affiliation: "Carnegie Mellon University"
     - name: "Alex Sixie Cao"
       affiliation: "Nanyang Technological University"
+      website: https://rislab.alexcao.org/
     - name: "Mauricio Sánchez-Silva"
       affiliation: "Los Andes University"
     - name: "Kaan Marvin Heimann"
