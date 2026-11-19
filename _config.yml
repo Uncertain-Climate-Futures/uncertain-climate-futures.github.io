@@ -23,6 +23,6 @@ defaults:
       header:
         title: "Managing Structures and Infrastructure for Uncertain Climate Futures"
         tagline: "Optimal strategies to handle climate uncertainty in civil infrastructure."
-        overlay_image: /images/MountainDS.jpg
-        overlay_filter: 0.2 # Makes text readable over an image
-        # caption: "Photo credit: Daniel Straub"
+        overlay_image: /images/thames.jpg
+        overlay_filter: 0.5 # Makes text readable over an image
+        caption: "[Thames Barrier photo by David Iliff](https://commons.wikimedia.org/wiki/File:Thames_Barrier,_London,_England_-_Feb_2010.jpg) · [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) · Cropped for display"
